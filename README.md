@@ -8,14 +8,14 @@
 Criar um documento que contenha O IMPACTO DAS INTELIGÊNCIAS ARTIFICIAIS NO DESIGN
 
 ## 🤖 Tecnologias Utilizadas
-Utilizei o "chatGPT" para criar um documento que descreve o impacto das IA"s no design atualmente
+Utilizei o "chatGPT" para criar um documento que descreve o impacto das IA's no design atualmente
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. 
 
 ## 🚀 Resultados
 Um documento resumido do atual panorama dos designers.
-Link [O IMPACTO DAS INTELIGÊNCIAS ARTIFICIAIS NO DESIGN.pdf](https://github.com/gmsilva41/lab-natty-or-not/commit/598532551d9b738ef49bcd3a2d11bf0f9eb42582)
+Link (https://github.com/gmsilva41/lab-natty-or-not/commit/598532551d9b738ef49bcd3a2d11bf0f9eb42582)
 
 
 ### Exemplos e Insigths
