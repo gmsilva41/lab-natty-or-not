@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 🚀 Resultados
 Um documento resumido do atual panorama dos designers.
-Link (/exemplos/resumo.md)
+Link [O IMPACTO DAS INTELIGÊNCIAS ARTIFICIAIS NO DESIGN.pdf](https://github.com/gmsilva41/lab-natty-or-not/commit/598532551d9b738ef49bcd3a2d11bf0f9eb42582)
 
 
 ### Exemplos e Insigths
