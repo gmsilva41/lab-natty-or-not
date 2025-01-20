@@ -23,20 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um documento que contenha O IMPACTO DAS INTELIGÊNCIAS ARTIFICIAIS NO DESIGN
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o "chatGPT" para criar um documento que descreve o impacto das IA"s no design atualmente
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um documento resumido do atual panorama dos designers.
+Link (/exemplos/resumo.md)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
